@@ -1,16 +1,29 @@
-### Hi there 👋
+<h1 align="center">Kev the Dev 👨🏻‍💻</h1>
 
-<!--
-**krealal/krealal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
+const kevReal = {
+    code: [“Javascript”],
+    askMeAbout: [“Dev”, “Tech”, “Test”, “BBDD”],
+    technologies: {
+        frontEnd: {
+            js: [“ReactJs”, “Redux” ],
+            css: [“Material UI”, “Bootstrap”, "Semantic UI", "Styled-components"]
+        },
+        backEnd: {
+            js: [“NodeJs”, “Express”, “Graphql”, “Mongoose”, "NextJS"],
+        },
+        devOps: [“Render”, “Vercel”, “Heroku”, “Netlify”],
+        databases: [“MongoDb”, "MySQL", "PostgreSQL"],
+        test: ["Jest", "Cypress", "Testing-library"],
+        misc: [“Firebase”, “Git”, “Github”]
+    },
+    currentFocus: “sharpening my skills in frontEnd”
+};
+```
+<div align="center">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://img.shields.io/badge/-kevReal-blue?style=flat-square&logo=Linkedin&logoColor=white&linkhttps://www.linkedin.com/in/kevinrealalejo/)](https://www.linkedin.com/in/kevinrealalejo/)
+[![Gmail Badge](https://img.shields.io/badge/-kevinreal8994@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kevinreal8994@gmail.com)](mailto:kevinreal8994@gmail.com)
+ </div>
+  
+  
